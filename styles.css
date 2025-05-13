@@ -16,7 +16,7 @@ body {
 #dayOfWeek {
     width: 100%;
     text-align: center;
-    font-size: 16vw;
+    font-size: 14vw;
 }
 
 #timeOfDay {
@@ -27,10 +27,10 @@ body {
 
 #timeDisplay{
     text-align: center;
-    font-size: 14vw;
+    font-size: 12vw;
 }
 
 #dateDisplay {
     text-align: center;
-    font-size: 10vw;
+    font-size: 9vw;
 }
